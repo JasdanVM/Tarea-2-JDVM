@@ -1,16 +1,5 @@
-# tarea2_botones
+#Tarea 2
 
-A new Flutter project.
+Operaciones basicas con botones (suma, resta, multiplicación y división), cada botón al ser presionado, sumará 2 o restará 2, multiplicará por 2 o dividirá por 2, según sea el que presione, el valor del contador que inicialmente debe tener un valor de 10.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Jason Daniel Velásquez Mejía 20212000937
